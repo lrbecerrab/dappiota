@@ -1,0 +1,13 @@
+
+version: '3.8'
+services:
+  frontend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - 5183:5183
+    command: npm run dev
+    container_name: dappiota
+    restart: always
+
