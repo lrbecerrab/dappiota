@@ -1,9 +1,9 @@
-import communities from "../assets/img/communities.jpg";
-import microgrid from "../assets/img/microgrid.png";
-import architecture from "../assets/img/architecture.png";
-import market from "../assets/img/market01.png";
-import marketmeters from "../assets/img/market_meters.png";
-import dapparchitecture from "../assets/img/dapparchitecture.png";
+import communities from "../assets/communities.jpg";
+import microgrid from "../assets/microgrid.png";
+import architecture from "../assets/architecture.png";
+import market from "../assets/market01.png";
+import marketmeters from "../assets/market_meters.png";
+import dapparchitecture from "../assets/dapparchitecture.png";
 
 const Welcome = () => {
   return (
