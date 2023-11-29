@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 import { useContext } from "react";
-import logo from "../assets/img/logo.png";
+import logo from "../assets/logo.png";
 import { DltContext } from "../context/DltContext";
 import { shortenAddress } from "../utils/shortenAddress";
 
