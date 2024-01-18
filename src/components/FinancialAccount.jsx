@@ -25,7 +25,7 @@ const FinancialAccount = () => {
             </div>
             <div className="mx-auto flex max-w-xs flex-col gap-y-0">
               <dt className="text-base leading-7 text-white uppercase">
-                Exchange rate (ETH/NRG)
+                Exchange rate (SMR/NRG)
               </dt>
               <dd className="order-first text-3xl font-semibold tracking-tight text-white  sm:text-2xl">
                 {tokenValue}

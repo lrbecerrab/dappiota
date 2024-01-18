@@ -11,7 +11,7 @@ const FinancialMarket = () => {
           <dl className="grid grid-cols-1 gap-x-8 gap-y-16 text-center lg:grid-cols-2">
             <div className="mx-auto flex max-w-xs flex-col gap-y-0">
               <dt className="text-base leading-7 text-white uppercase">
-                Balance (ETH)
+                Balance (SMR)
               </dt>
               <dd className="order-first text-3xl font-semibold tracking-tight text-white  sm:text-4xl uppercase">
                 {balanceEthersMarket}
