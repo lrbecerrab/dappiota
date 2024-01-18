@@ -25,7 +25,7 @@ const SetTokensValue = () => {
   return (
     <div className="p-10">
       <Input
-        placeholder="Exchange value  (Wei/NRG)"
+        placeholder="Exchange value  (SMR/NRG)"
         name="exchangeRate"
         type="number"
         handleChange={handleChange}
