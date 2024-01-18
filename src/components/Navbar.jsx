@@ -11,7 +11,7 @@ const Navbar = () => {
       <div>
         <img src={logo} alt="logo" className="w-32 cursor-pointer" />
         <h1 className="text-white text-7xl font-extrabold ">NRG</h1>
-        <span className="text-white">Sell your energy with Iota</span>
+        <span className="text-white">Sell your energy with Shimmer</span>
       </div>
       <div className="navbar text-end">
         <Link className="text-white p-5" to="/">
