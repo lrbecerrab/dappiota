@@ -1,5 +1,5 @@
 import { Footer, Navbar, FinancialAccount } from "./components";
-import { Financial, Market, Prosumer, Welcome } from "./pages";
+import { Financial, Market, Prosumer, Setting, Welcome } from "./pages";
 
 import { Route, Routes } from "react-router-dom";
 
@@ -13,6 +13,7 @@ const App = () => {
         <Route path="/Financial" element={<Financial />} />
         <Route path="/Market" element={<Market />} />
         <Route path="/Prosumer" element={<Prosumer />} />
+        <Route path="/Setting" element={<Setting />} />
         <Route
           path="*"
           element={
