@@ -1,6 +1,6 @@
 export { default as BuyEnergy } from "./BuyEnergy";
 export { default as BuyTokens } from "./BuyTokens";
-export { default as NewMeter } from "./NewMeter";
+export { default as MeterDisable } from "./MeterDisable";
 export { default as NewMeter } from "./NewMeter";
 export { default as ReturnTokens } from "./ReturnTokens";
 export { default as SetTokenValue } from "./SetTokenValue";
