@@ -1,4 +1,4 @@
-import { ProsumerEnergy, Meters, NewMeter } from "../components";
+import { ProsumerEnergy, Meters, NewMeter, MeterDisable } from "../components";
 
 const Prosumer = () => {
   return (
@@ -12,6 +12,9 @@ const Prosumer = () => {
       </div>
       <div className="flex justify-center ">
         <NewMeter />
+      </div>
+      <div className="flex justify-center ">
+        <MeterDisable />
       </div>
     </div>
   );

@@ -1,6 +1,7 @@
 export { default as BuyEnergy } from "./BuyEnergy";
 export { default as BuyTokens } from "./BuyTokens";
 export { default as NewMeter } from "./NewMeter";
+export { default as NewMeter } from "./NewMeter";
 export { default as ReturnTokens } from "./ReturnTokens";
 export { default as SetTokenValue } from "./SetTokenValue";
 export { default as FinancialAccount } from "./FinancialAccount";
